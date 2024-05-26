@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-3.1-RELEASE-20240525-GAPPS-COMMUNITY-mayfly-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/GAPPS/mayfly/RisingOS-3.1-RELEASE-20240525-GAPPS-COMMUNITY-mayfly-ota.zip/download",
+			"timestamp": 1716611214,
+			"md5": "5f47c5ec27782708100450db0fd28dba",
+			"sha256": "029450ae5c19e59429aad41a64b26194488f1f039d7c49a782f2ffb22cf5d39f",
+			"size": 2826165062,
+			"version": "3.1-Janus",
+			"buildtype": "RELEASE",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

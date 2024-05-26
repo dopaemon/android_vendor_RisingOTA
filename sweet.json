@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "Aarav&Ajit",
-                        "oem": "Xiaomi",
-                        "device": "Redmi Note 10 Pro",
-                        "filename": "RisingOS-2.2-RELEASE-20240512-CORE-OFFICIAL-sweet.zip",
-                        "download": "https://sourceforge.net/projects/risingos-official/files/2.x/CORE/Sweet/RisingOS-2.2-RELEASE-20240512-CORE-OFFICIAL-sweet.zip/download",
-                        "timestamp": 1715523525,
-                        "md5": "cf489e3c6ece966ebd4447821d2d276f",
-                        "sha256": "829ed7cb4b2cd7dfcaf84243a48636854a24117f348c054baef3de7fe03cdf6c",
-                        "size": 2052127840,
-                        "version": "2.2-Ignis",
-                        "buildtype": "RELEASE",
-                        "forum": "https://t.me/ricedroid_sweet",
-                        "gapps": "",
-                        "firmware": "https://xiaomifirmwareupdater.com/firmware/",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-EROFSCompression.zip",
-                        "paypal": "https://www.paypal.me/ajitalenka69",
-                        "telegram": "https://t.me/aarav_x",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Aarav&Ajit",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 10 Pro",
+			"filename": "RisingOS-3.1-RELEASE-20240525-GAPPS-UNOFFICIAL-sweet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/GAPPS/sweet/RisingOS-3.1-RELEASE-20240525-GAPPS-UNOFFICIAL-sweet-ota.zip/download",
+			"timestamp": 1716631217,
+			"md5": "5e4319e8bad6848d3765556c9a43dc98",
+			"sha256": "9bd7ce29bcffa1683ef95bcd6b0bd3938378a7af81967858cfb942a38078475e",
+			"size": 2377589105,
+			"version": "3.1-Janus",
+			"buildtype": "RELEASE",
+			"forum": "https://t.me/ricedroid_sweet",
+			"gapps": "",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-EROFSCompression.zip",
+			"paypal": "https://www.paypal.me/ajitalenka69",
+			"telegram": "https://t.me/aarav_x",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
