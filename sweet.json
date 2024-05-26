@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"response": [
 		{
 			"maintainer": "Aarav&Ajit",
@@ -25,4 +26,32 @@
 			"kernel": ""
 		}
 	]
+=======
+        "response": [
+                {
+                        "maintainer": "Aarav&Ajit",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 10 Pro",
+                        "filename": "RisingOS-3.1-RELEASE-20240525-CORE-OFFICIAL-sweet-ota.zip",
+                        "download": "https://sourceforge.net/projects/risingos-official/files/3.x/CORE/sweet/RisingOS-3.1-RELEASE-20240525-CORE-OFFICIAL-sweet-ota.zip/download",
+                        "timestamp": 1716605034,
+                        "md5": "597b77fd090d5be54a7e889960b01142",
+                        "sha256": "c2f7dd0c1b265837acbde34c68ec2f4b0ed0ef5f30893166b52750d4f6314642",
+                        "size": 2025497898,
+                        "version": "3.1-Janus",
+                        "buildtype": "RELEASE",
+                        "forum": "https://t.me/ricedroid_sweet",
+                        "gapps": "",
+                        "firmware": "https://xiaomifirmwareupdater.com/firmware/",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-EROFSCompression.zip",
+                        "paypal": "https://www.paypal.me/ajitalenka69",
+                        "telegram": "https://t.me/aarav_x",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+>>>>>>> 7a4fc500fca7fa7c5efb64a8b0a2aa4d16f9b7b5
 }
