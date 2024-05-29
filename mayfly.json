@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "RisingOS-3.1-RELEASE-20240527-GAPPS-UNOFFICIAL-mayfly-ota.zip",
-			"download": "https://sourceforge.net/projects/android-unofficial/files/Android-14/mayfly/RisingOS/20240527/RisingOS-3.1-RELEASE-20240527-GAPPS-UNOFFICIAL-mayfly-ota.zip/download",
-			"timestamp": 1716834295,
-			"md5": "590ca558310dcab87813c7dacb9c7bbf",
-			"sha256": "09beb96f99a7579fc4975f8de2618e9031595d940ff873f8a20c8993041ed980",
-			"size": 2893026263,
+			"maintainer": "KernelPanix",
+			"oem": "Xiaomi",
+			"device": "Xiaomi 12S",
+			"filename": "RisingOS-3.1-RELEASE-20240528-GAPPS-UNOFFICIAL-mayfly-ota.zip",
+			"download": "https://sourceforge.net/projects/android-unofficial/files/Android-14/mayfly/RisingOS/20240528-1/RisingOS-3.1-RELEASE-20240528-GAPPS-UNOFFICIAL-mayfly-ota.zip/download",
+			"timestamp": 1716933416,
+			"md5": "3788b30880edac8000f0f2744172ecef",
+			"sha256": "c17c0f8168c701b53e74cd8f51f913f31468e73f417f4ff93727ea96db0a8ee6",
+			"size": 2884043109,
 			"version": "3.1-Janus",
 			"buildtype": "RELEASE",
-			"forum": "",
+			"forum": "https://xdaforums.com/t/rom-android-14-mi-12s-risingos-v3-1-unofficial.4672854/",
 			"gapps": "",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
+			"paypal": "https://www.paypal.me/dopaemon",
+			"telegram": "https://t.me/KernelPanix",
+			"dt": "https://github.com/dopaemon/android_device_xiaomi_mayfly/tree/rising-A14",
+			"common-dt": "https://github.com/dopaemon/android_device_xiaomi_sm8450-common",
+			"kernel": "https://github.com/dopaemon/android_kernel_xiaomi_sm8450"
 		}
 	]
 }
