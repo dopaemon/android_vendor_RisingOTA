@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "KernelPanix",
+			"oem": "Xiaomi",
+			"device": "Xiaomi 12S Pro",
+			"filename": "RisingOS-3.2-RELEASE-20240603-GAPPS-COMMUNITY-unicorn-ota.zip",
+			"download": "https://sourceforge.net/projects/android-unofficial/files/Android-14/unicorn/RisingOS/20240603/RisingOS-3.2-RELEASE-20240603-GAPPS-COMMUNITY-unicorn-ota.zip/download",
+			"timestamp": 1717408663,
+			"md5": "d3607220f624f910ce5b73c1d0198df2",
+			"sha256": "9d59a8567047f4d7f84325eb24b94e02cb2aad1a4e67ade5e0f630439212a6a1",
+			"size": 2917016741,
+			"version": "3.2-Janus",
+			"buildtype": "RELEASE",
+			"forum": "https://xdaforums.com/t/rom-android-14-mi-12s-pro-risingos-v3-1-unofficial.4674059/#post-89540764",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/dopaemon",
+			"telegram": "https://t.me/KernelPanix",
+			"dt": "https://github.com/dopaemon/android_device_xiaomi_coral/tree/rising-A14",
+			"common-dt": "https://github.com/dopaemon/android_device_xiaomi_sm8450-common",
+			"kernel": "https://github.com/dopaemon/android_kernel_xiaomi_sm8450"
+		}
+	]
+}
