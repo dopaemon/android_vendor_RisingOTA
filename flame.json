@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-3.2-RELEASE-20240603-VANILLA-COMMUNITY-flame-ota.zip",
+			"download": "",
+			"timestamp": 1717425401,
+			"md5": "eb811ae9916a6b03618169aaac7fe931",
+			"sha256": "27728b1a3d8caf7d4ca39f41125ecaebdbec4cd155c01df9b61cece456255601",
+			"size": 1437420803,
+			"version": "3.2-Janus",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

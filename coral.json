@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-3.2-RELEASE-20240603-VANILLA-COMMUNITY-coral-ota.zip",
+			"download": "",
+			"timestamp": 1717418420,
+			"md5": "fc6da49cbf350e6fa945052aa5fe943d",
+			"sha256": "13684abe263a53243bfcb2e3fbcc94fa7e8bc3f1220a3ddac5de62c36e8c8404",
+			"size": 1437797391,
+			"version": "3.2-Janus",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
