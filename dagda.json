@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-3.2-RELEASE-20240605-GAPPS-COMMUNITY-dagda-ota.zip",
+			"download": "",
+			"timestamp": 1717606049,
+			"md5": "77d988cadb19790d5580c7a42ef3194b",
+			"sha256": "c04f201f3593b5fd6f2a2643c994e1859276730fc2db3e4beb3b240904351a8d",
+			"size": 2683701940,
+			"version": "3.2-Janus",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

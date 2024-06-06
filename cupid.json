@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-3.2-RELEASE-20240605-GAPPS-COMMUNITY-cupid-ota.zip",
+			"download": "",
+			"timestamp": 1717601593,
+			"md5": "6f601780dc820be832122c094f6abcb0",
+			"sha256": "10f4ba7a7eecdc2abb5d642b8536fbda03a7f806d468934174965825db3da9a5",
+			"size": 2793057692,
+			"version": "3.2-Janus",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
